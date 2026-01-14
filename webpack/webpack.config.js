@@ -55,7 +55,8 @@ module.exports = {
                   'import',
                   'if-function',
                 ]
-              }
+              },
+              api:"modern"
             }
           }
         ]
